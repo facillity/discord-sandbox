@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/.idea.discord-sandbox.iml
-/projectSettingsUpdater.xml
 /modules.xml
+/projectSettingsUpdater.xml
 /contentModel.xml
+/.idea.getting-started-activity.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
