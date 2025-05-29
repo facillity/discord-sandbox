@@ -1,4 +1,6 @@
 import * as THREE from 'three';
+import '/Users/simonly/Desktop/discord-sandbox/three-js/frontend/src/style.css'
+
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
